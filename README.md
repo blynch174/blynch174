@@ -8,7 +8,7 @@ Computer Science senior at UConn (graduating May 2027), and a U.S. Air Force vet
 
 **[Turbo Ducks Telemtry](https://github.com/blynch174/sdp-team20-td)** *(senior capstone)*: a live telemetry dashboard and anomaly detection/prediction system for UConn's Formula SAE race car, sponsored by OWL Integrations. I manage a 4-person team and work on the dashboard and split the work on the edge pipeline (RaspPi -> LoRa -> Pit dashboard). Currently still under construction.
 
-**[Backbeat](https://github.com/blynch174/backbeat-program)** *(in progress)*: drum hit classification and transcription using the IDMT-SMT-Drums and Expanded Groove MIDI datasets. Started as a big data analytics project getting the model running, and will continue to develop when the semester ends.
+**[BackBeat](https://github.com/blynch174/backbeat-program)** *(in progress)*: drum hit classification and transcription using the IDMT-SMT-Drums and Expanded Groove MIDI datasets. Started as a big data analytics project getting the model running, and will continue to develop when the semester ends.
 
 ## Tools I work with
 
